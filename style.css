@@ -1,0 +1,130 @@
+.corpo{
+    background-color: rgb(28, 28, 28);
+}
+.fotoPrincipal{
+    border-radius: 50%;
+}
+
+.textoPrincipal{
+    color: rgb(132, 132, 132);
+    
+}
+
+.botoesPrincipais{
+    text-decoration: none;
+    color: #ffd900b5;
+}
+
+.botaoProjetos{
+    text-decoration: none;
+    color: #ffd900b5;
+    
+
+}
+
+.botoesPrincipais:hover{
+    color: #B8860B;
+}
+
+.botaoProjetos:hover{
+    color: #B8860B;
+}
+
+.texto{
+    color: rgb(132, 132, 132);
+    font-size: 18px;
+
+}
+
+.tit1{
+    color: pink;
+    font-size: larger;
+    text-align: center;
+}
+
+.tit2{
+    color: azure;
+    font-size: x-large ;
+    text-align: center;
+    
+}
+
+.tit3{
+    color: aquamarine;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+.tit4{
+    color: violet;
+    font-size: xxx-large;
+    text-align: center;
+    
+}
+
+.tit5{
+    color: azure;
+    font-size: medium ;
+    text-align: center;
+    
+}
+
+.paginasExternas{
+    color: rgb(132, 132, 132);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.paginasExternas:active{
+    color: rgb(176, 154, 154);
+    
+}
+
+.rodape{
+    text-align: center;
+    background-color: rgb(132, 132, 132);
+}
+
+.complementoRodape{
+    color: #ffd903;
+}
+
+.complementoRodape:hover{
+    color: #B8860B;
+}
+
+.fotoBotao{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    
+}
+
+
+
+
+
+
+h1{
+    text-align:  center;
+}
+
+.botaoPjt{
+    padding: 12px 102.9px;
+    
+    color: rgb(255, 255, 255);
+    background: rgb(29, 29, 29);
+    border-radius: 5px;
+    
+    text-decoration: none;
+    user-select: none;
+    cursor: pointer;
+
+}
+
+.botaoPjt:hover{
+    background-image: linear-gradient(to right, rgb(65, 1, 1), rgb(218, 50, 50));; 
+    transition: 1s;
+}
+
